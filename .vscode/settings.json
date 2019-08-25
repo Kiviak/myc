@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "types.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "unistd.h": "c",
+        "fcntl.h": "c",
+        "signal.h": "c",
+        "errno.h": "c",
+        "signum.h": "c",
+        "syslog.h": "c",
+        "resource.h": "c"
+    }
+}
